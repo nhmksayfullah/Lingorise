@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Vocabuilder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vocabList_btn_learned">Learned</string>
+    <string name="vocabList_btn_delete">Delete</string>
+    <string name="vocabList_demo_word">Word</string>
+    <string name="vocabList_demo_meaning">meaning</string>
+    <string name="vocabList_demo_example">This is the example</string>
+    <string name="homeFag_btn_adVocab">Pick and memorise your own word</string>
+    <string name="homeFag_btn_userGuid">How to use Vocabuilder for most gain</string>
+    <string name="homeFag_btn_toLearn_count">10</string>
+    <string name="homeFag_btn_toLearn_title">To learn</string>
+    <string name="homeFag_btn_learned_count">10</string>
+    <string name="homeFag_btn_learned_title">Learned</string>
+    <string name="getVocab_btn_add_title">create cards</string>
+    <string name="getVocab_btn_add_subTitle">You have to add at least 5 words to start</string>
+    <string name="homeFag_area_help_title">Help us to improve</string>
+    <string name="homeFag_area_help_btn_reportBug">Report Bug</string>
+    <string name="homeFag_area_help_btn_feedback">Feedback</string>
+    <string name="vocabList_wordCounter">0 selected</string>
+    <string name="vocabList_txt_empty">No data is available</string>
+    <string name="updateVocab_btn_update">Update</string>
+</resources>

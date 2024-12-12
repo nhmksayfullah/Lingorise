@@ -1,0 +1,22 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/New folder/VocaBuilder/app/src/main/res/drawable/bg_getvocab_single_item.xml" value="0.23066666666666666" />
+        <entry key="..\:/New folder/VocaBuilder/app/src/main/res/drawable/bg_swipemenu_delete.xml" value="0.23066666666666666" />
+        <entry key="..\:/New folder/VocaBuilder/app/src/main/res/drawable/btn_create_cards.xml" value="0.23066666666666666" />
+        <entry key="..\:/New folder/VocaBuilder/app/src/main/res/layout/activity_get_vocab.xml" value="0.21981981981981982" />
+        <entry key="..\:/New folder/VocaBuilder/app/src/main/res/layout/activity_vocablist.xml" value="0.21981981981981982" />
+        <entry key="..\:/New folder/VocaBuilder/app/src/main/res/layout/dialog_quizactivity_wronganswer.xml" value="0.2" />
+        <entry key="..\:/New folder/VocaBuilder/app/src/main/res/layout/dialog_single_flashcard.xml" value="0.21981981981981982" />
+        <entry key="..\:/New folder/VocaBuilder/app/src/main/res/layout/vocablist_item_view.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
